@@ -4,3 +4,4 @@ write
 gogo+
 gm
 gmgm
+gm
